@@ -20,6 +20,9 @@ body {
   background-color: var(--generic-template-background) !important;
 }
 
+a{
+	text-decoration-color: #544527;
+}
 .template-header {
   background: var(--generic-template-background);
   height: 15vh;
